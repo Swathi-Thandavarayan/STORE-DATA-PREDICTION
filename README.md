@@ -21,6 +21,7 @@ MarkDown1-5 - anonymized data related to promotional markdowns. MarkDown data is
 CPI - the consumer price index
 Unemployment - the unemployment rate
 IsHoliday - whether the week is a special holiday week
+
 Sales
 Historical sales data, which covers 2010-02-05 to 2012-11-01. Within this tab you will find the following fields:
 Store - the store number
