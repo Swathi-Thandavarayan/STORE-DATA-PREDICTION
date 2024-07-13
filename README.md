@@ -29,3 +29,4 @@ Dept - the department number
 Date - the week
 Weekly_Sales -  sales for the given department in the given store
 IsHoliday - whether the week is a special holiday week
+r
